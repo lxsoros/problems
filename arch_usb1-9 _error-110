@@ -8,4 +8,8 @@ So I just restored the BIOS configurations to the default and shutdown the compu
 Then I started the computer again and configure the BIOS to turn off secure boot to boot my arch-linux. And that problem disappears.
 Amazing and very happy.
 
+I recalled that when I started the live-arch in the USB storage device , still I got the problem. From this view, I reason that
+this problem has nothing to do with the computer systems, so it could quite relate to the BIOS.
+
+
 2018.2.1 23:53
