@@ -1,0 +1,11 @@
+I cannot figure out why I got this problem:
+As the arch-linux is starting, it prints "usb 1-9 device descriptor read/64 error -110
+
+I search on the Internet for the answer, yet not a quite one. It seems to have something to do with the motherboard and BIOS.
+SO I tried to update the BIOS, yet finding no way on the AUSUS official website.
+
+So I just restored the BIOS configurations to the default and shutdown the computer.
+Then I started the computer again and configure the BIOS to turn off secure boot to boot my arch-linux. And that problem disappears.
+Amazing and very happy.
+
+2018.2.1 23:53
